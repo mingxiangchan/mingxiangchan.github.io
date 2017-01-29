@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:darktable="http://darktable.sf.net/"
+   xmp:Rating="1"
+   xmpMM:DerivedFrom="abamxzlot8e-dariusz-sankowski.jpg"
+   darktable:xmp_version="2"
+   darktable:raw_params="0"
+   darktable:auto_presets_applied="1"
+   darktable:history_end="1">
+   <darktable:mask_id>
+    <rdf:Seq>
+     <rdf:li>1485706688</rdf:li>
+     <rdf:li>1485706704</rdf:li>
+    </rdf:Seq>
+   </darktable:mask_id>
+   <darktable:mask_type>
+    <rdf:Seq>
+     <rdf:li>16</rdf:li>
+     <rdf:li>16</rdf:li>
+    </rdf:Seq>
+   </darktable:mask_type>
+   <darktable:mask_name>
+    <rdf:Seq>
+     <rdf:li> </rdf:li>
+     <rdf:li>gradient #2</rdf:li>
+    </rdf:Seq>
+   </darktable:mask_name>
+   <darktable:mask_version>
+    <rdf:Seq>
+     <rdf:li>4</rdf:li>
+     <rdf:li>4</rdf:li>
+    </rdf:Seq>
+   </darktable:mask_version>
+   <darktable:mask>
+    <rdf:Seq>
+     <rdf:li>98c94d3dfb4d1d3ee77804c00000003f00000000</rdf:li>
+     <rdf:li>dc21fd3d5e35883e000000000000003f00000000</rdf:li>
+    </rdf:Seq>
+   </darktable:mask>
+   <darktable:mask_nb>
+    <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+    </rdf:Seq>
+   </darktable:mask_nb>
+   <darktable:mask_src>
+    <rdf:Seq>
+     <rdf:li>0000000000000000</rdf:li>
+     <rdf:li>0000000000000000</rdf:li>
+    </rdf:Seq>
+   </darktable:mask_src>
+   <darktable:history>
+    <rdf:Seq>
+     <rdf:li
+      darktable:operation="flip"
+      darktable:enabled="1"
+      darktable:modversion="2"
+      darktable:params="ffffffff"
+      darktable:multi_name=""
+      darktable:multi_priority="0"
+      darktable:blendop_version="7"
+      darktable:blendop_params="gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM="/>
+    </rdf:Seq>
+   </darktable:history>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

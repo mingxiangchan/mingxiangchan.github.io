@@ -1,32 +1,35 @@
 ---
 layout: page
-title: About the Jekyll Theme
-image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+title: About Me
 comments: false
-modified: 2016-02-01
+modified: 2017-01-30
+image:
+  feature: abamxzlot8e-dariusz-sankowski.jpg
+  credit: dariusz-sankowski
+  creditlink: https://unsplash.com/collections/369454/faith?photo=ABAmxzlot8E
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+## Who am I?
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+Majored in Marketing from the National University of Singapore, then switched to web development after attending a Ruby on Rails coding bootcamp - [Next Academy](https://nextacademy.com).
 
-## HPSTR Features:
+Currently working fulltime as a in-house web developer building admin/education related webapps in Rails and Phoenix.
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
+## Interested Technologies
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+1. Ruby
+  - Rails
+  - Sinatra
+  - Rspec
 
-[^1]: Example: *domain.com/category-name/post-title*
+2. Elixir
+  - Phoenix
+
+3. Javascript
+  - React
+  - Brunch
+  - Webpack
+
+5. Others
+  - Docker
+
